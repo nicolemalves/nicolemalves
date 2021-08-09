@@ -8,23 +8,23 @@ My interest is to dedicate myself to front end development and I study courses a
    ## :mortar_board: Currently learning
 
 
-   <a>
+   <a href="*">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/css3.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
    </a>
   
-   <a>
+   <a href="*">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/bootstrap.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
    </a>
   
-   <a>
+   <a href="*">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/js.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
    </a>
   
-   <a>
+   <a href="*">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/php.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
    </a>  
   
-   <a>
+   <a href="*">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/jquery.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
    </a>
    
@@ -32,7 +32,7 @@ My interest is to dedicate myself to front end development and I study courses a
    ## :heavy_check_mark: Completed courses
    
    
-   <a>
+   <a href="*">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/html.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
    </a>
 
@@ -40,7 +40,7 @@ My interest is to dedicate myself to front end development and I study courses a
    ## :wrench: Tools
    
    
-   <a>
+   <a href="*">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/visualstudio_code.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
    </a>
    
